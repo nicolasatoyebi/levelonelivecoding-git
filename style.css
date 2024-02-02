@@ -51,3 +51,20 @@ ion-icon {
   .hero-text-sm {
     margin-bottom: 100px;
   }
+
+  .feature {
+    background-color: #FBFBFB;
+  }
+
+  .feature-images{
+    background-color: #fff;
+  }
+
+  .feature-images img:not(:last-child){
+    margin-right: 20px;
+  }
+
+  .feature-text {
+    font-size: 18px;
+    color: #666666;
+  }
