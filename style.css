@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #0A0A0A !important;
+}
+
+.header-top {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    padding: 9px 0;
+}
+
+.hero-background {
+    background-image: url(/images/image-12.png);
+    height: 94vh;
+    opacity: 1;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.nav-bar {
+    border-bottom: 1px solid rgba(0,0,0, .05);
+}
