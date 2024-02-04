@@ -68,3 +68,53 @@ ion-icon {
     font-size: 18px;
     color: #666666;
   }
+
+  .services {
+    background-image: linear-gradient(to bottom right, rgba(0,0,0),80%, rgb(97, 147, 207), rgb(19, 34, 86));
+  }
+
+  .service {
+    width: 32%;
+    border: 0.5px solid rgb(12, 157, 218);
+    border-radius: 5px;
+  }
+
+  .innovation {
+    padding-bottom: 100px;
+  }
+
+  .innovation-hero{
+    font-size: 78px;
+    width: 30%;
+  }
+
+  .form-input {
+    background-color: #F0F0F0;
+    color: #A5A5A5;
+  }
+
+  .submit-btn {
+    margin-left: -6px;
+    background-color: #0C9DDA;
+  }
+
+  .footer-primary {
+    gap: 250px;
+  }
+
+  .footer-links a:link{
+    text-decoration: none;
+    color: white;
+  }
+
+  .line {
+    width: 1300px;
+    height: 10px;
+    margin: 0 auto;
+    border-bottom: 1px solid #373737;
+  }
+
+  .footer-secondary a{
+    text-decoration: none;
+    color: white;
+  }
