@@ -18,6 +18,7 @@ body {
 
 .hero-background {
     background-image: url(/images/image-12.png);
+    -webkit-background-image: url(/images/image-12.png);
     height: 94vh;
     opacity: 1;
     background-position: center;
